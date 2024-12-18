@@ -87,5 +87,4 @@ elif opcion == "Ejercicio 2":
     st.pyplot(fig)
 
 # Pie de página
-st.sidebar.info("Creado por: Tu Nombre")
-st.sidebar.markdown("GitHub: [Repositorio](https://github.com/luz897/ACTIVIDAD-08)")
+st.sidebar.info("Creado por: Andree Alessandro")
